@@ -10,10 +10,19 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "@react-navigation/bottom-tabs": "^7.4.5",
+    "@react-navigation/native": "^7.1.17",
+    "date-fns": "^4.1.0",
     "expo": "~53.0.20",
     "expo-status-bar": "~2.2.3",
+    "firebase": "^12.0.0",
     "react": "19.0.0",
-    "react-native": "0.79.5"
+    "react-native": "0.79.5",
+    "react-native-calendars": "^1.1313.0",
+    "react-native-gesture-handler": "~2.24.0",
+    "react-native-safe-area-context": "^5.5.2",
+    "react-native-screens": "^4.13.1",
+    "expo-location": "~18.1.6"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0"
